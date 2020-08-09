@@ -1,6 +1,6 @@
 # PML-Course-predition-assignment
 
-THe finished HTML docoment has been created and is in this repository
+THe finished HTML docoment has been created and is at this website for easy viewing 
 
 https://czingler.github.io/github.io/PML-Course-prediction-assignment.html
 
